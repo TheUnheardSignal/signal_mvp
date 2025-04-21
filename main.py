@@ -7,6 +7,7 @@ from insight import generate_insight
 from action import suggest_micro_action
 from closure import check_closure
 
+
 import streamlit as st
 
 st.set_page_config(page_title="Signal", layout="centered")
